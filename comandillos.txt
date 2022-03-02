@@ -1,0 +1,20 @@
+npm run wathc
+
+
+
+
+LARAVEL AUTHENTICATION
+
+composer require laravel/ui
+
+php artisan ui vue --auth
+
+npm install
+npm run dev
+
+
+
+LARAVEL + VUE
+php artisan ui vue
+npm update vue-loader
+npm install && npm run dev
